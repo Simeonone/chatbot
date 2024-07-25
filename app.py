@@ -63,7 +63,7 @@ clarifying_responses = [
     "I'm here to help, but I need a bit more context. What would you like to know about my qualifications or experience?",
     "That's an interesting sound! But I'm better with words. What would you like to ask about my AI expertise or background?",
     "I'm afraid I didn't quite grasp your question. Could you try asking in a different way?",
-    "I'm all ears, but I need a bit more to go on. What part of my CV are you curious about?",
+    "I'm all ears, but I need a bit more to go on. What is it about me that you would like to know more of?",
 ]
 
 # Preprocess input
